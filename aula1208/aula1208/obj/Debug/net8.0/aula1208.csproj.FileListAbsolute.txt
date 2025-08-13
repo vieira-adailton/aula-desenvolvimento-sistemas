@@ -1,0 +1,14 @@
+C:\Users\lab1064\Desktop\Nova pasta\aula1208\aula1208\bin\Debug\net8.0\aula1208.exe
+C:\Users\lab1064\Desktop\Nova pasta\aula1208\aula1208\bin\Debug\net8.0\aula1208.deps.json
+C:\Users\lab1064\Desktop\Nova pasta\aula1208\aula1208\bin\Debug\net8.0\aula1208.runtimeconfig.json
+C:\Users\lab1064\Desktop\Nova pasta\aula1208\aula1208\bin\Debug\net8.0\aula1208.dll
+C:\Users\lab1064\Desktop\Nova pasta\aula1208\aula1208\bin\Debug\net8.0\aula1208.pdb
+C:\Users\lab1064\Desktop\Nova pasta\aula1208\aula1208\obj\Debug\net8.0\aula1208.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab1064\Desktop\Nova pasta\aula1208\aula1208\obj\Debug\net8.0\aula1208.AssemblyInfoInputs.cache
+C:\Users\lab1064\Desktop\Nova pasta\aula1208\aula1208\obj\Debug\net8.0\aula1208.AssemblyInfo.cs
+C:\Users\lab1064\Desktop\Nova pasta\aula1208\aula1208\obj\Debug\net8.0\aula1208.csproj.CoreCompileInputs.cache
+C:\Users\lab1064\Desktop\Nova pasta\aula1208\aula1208\obj\Debug\net8.0\aula1208.dll
+C:\Users\lab1064\Desktop\Nova pasta\aula1208\aula1208\obj\Debug\net8.0\refint\aula1208.dll
+C:\Users\lab1064\Desktop\Nova pasta\aula1208\aula1208\obj\Debug\net8.0\aula1208.pdb
+C:\Users\lab1064\Desktop\Nova pasta\aula1208\aula1208\obj\Debug\net8.0\aula1208.genruntimeconfig.cache
+C:\Users\lab1064\Desktop\Nova pasta\aula1208\aula1208\obj\Debug\net8.0\ref\aula1208.dll
